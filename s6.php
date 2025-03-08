@@ -23,11 +23,11 @@
 
 // case function
 
-$t1 = "hello";
-echo strtoupper($t1) . <"<br>";
+// $t1 = "hello";
+// echo strtoupper($t1) . <"<br>";
 
-$t2 = "hello";
-echo strtolower ($t2) .  <"<br>";
+// $t2 = "hello";
+// echo strtolower ($t2) .  <"<br>";
 
 
 ?>
